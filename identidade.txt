@@ -2,3 +2,5 @@ Nome: André Francelino
 CPF (falso): 123.456.789-10
 Profissão: Eletrotécnico e Desenvolvedor
 Whats: (83) 9 9951-0797
+idade: 31 anos
+Altura: 1.61m
