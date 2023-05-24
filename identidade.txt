@@ -4,3 +4,5 @@ Profissão: Eletrotécnico e Desenvolvedor
 Whats: (83) 9 9951-0797
 idade: 31 anos
 Altura: 1.61m
+Cidade: Patos - PB
+País: Brasil
