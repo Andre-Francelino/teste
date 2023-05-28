@@ -6,3 +6,4 @@ idade: 31 anos
 Altura: 1.61m
 Cidade: Patos - PB
 País: Brasil
+Cor de cabelo: Castanho
